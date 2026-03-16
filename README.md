@@ -42,7 +42,7 @@ $Bin$\Supremo\
 |---|---|
 | `$Bin$` | winPenPack `\bin\` folder |
 | `$AppName$` | `Supremo` (defined in `[Setup]`) |
-| `$Home$` | winPenPack user home folder |
+| `$Home$` | winPenPack user home folder, *unused for this INI* |
 
 ---
 
